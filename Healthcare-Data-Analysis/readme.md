@@ -12,6 +12,9 @@
 - Included a dedicated **Month column** to identify seasonal trends in patient visits.
 
 ## Analysis and Visualization
+
+(https://github.com/rahmansabiurfx/Excel-EDA/blob/main/Healthcare-Data-Analysis/Assets/stat1.PNG)
+
 ### Wait Times
 - **General Practice** had the longest average wait time (~37.5 minutes), significantly higher than other departments.
 - **Cardiology** and **Gastroenterology** recorded the shortest average wait times (~13.5 minutes).
@@ -31,4 +34,5 @@
 ## Conclusion
 - The high patient load in **General Practice** explains its elevated average wait times, making it a clear bottleneck. This department should be the primary focus for efficiency improvements.
 - Staffing should be prioritized for **General Practice**, particularly on weekdays.
+
 - Additional weekend staffing in **Cardiology** should be considered, as it is the second busiest department on weekends.
